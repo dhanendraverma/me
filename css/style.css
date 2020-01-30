@@ -804,24 +804,8 @@ header .intro-text {
 #txt_shadow {
 	text-shadow: 0 0 6px black;
 }
-/* 
-.educationx{
-	position: relative;
-} */
 
-/* .educationx:before {
-	
-		content: '';
-		position: absolute;
-		top: 0;
-		left: 50%;
-		margin-left: -1px;
-		width: 2px;
-		height: 100%;
-		background: #CCD1D9;
-		z-index: 1;
-	
- } */
+
 
 /* education container */	 
 ul.timeline-list {
@@ -900,3 +884,4 @@ ul.timeline-list {
   div.timeline-content p span{
 	padding-left: 20px;
   }
+
