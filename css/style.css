@@ -885,3 +885,8 @@ ul.timeline-list {
 	padding-left: 20px;
   }
 
+
+/* contact font size */
+div.contactx p{
+	font-size: 2rem;
+}
